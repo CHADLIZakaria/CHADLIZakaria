@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋</h1>
+ <h1 align="left">Hey 👋</h1>
 
 ###
 
@@ -76,6 +76,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CHADLIZakaria/CHADLIZakaria/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CHADLIZakaria/CHADLIZakaria/output/snake.svg" alt="Snake animation" />
 
 ###

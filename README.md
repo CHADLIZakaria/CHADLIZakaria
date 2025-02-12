@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">My name is CHADLI Zakaria and I'm a Software Engineer</h3>
+<h3 align="left">My name is CHADLI Zakaria, and I'm a Software Engineer. I specialize in Spring Boot, Angular, React, and Flutter, constantly enhancing my skills and working on innovative projects to stay ahead in the tech field.</h3>
 
 ###
 

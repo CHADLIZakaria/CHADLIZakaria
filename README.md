@@ -21,44 +21,33 @@
 
 ###
 
+
 <h2 align="left">💻 I code with</h2>
 
-###
-
 <div align="left">
- <h3 align="left">🖥️ Languages:</h3>
- 
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" /> 
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
- <img src="https://img.shields.io/badge/dart-0075BA?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
- <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
- <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
- <img src="https://img.shields.io/badge/tailwind%20css-35BEF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind css" />
+  
+  <h3 align="left">🖥️ Programming Languages:</h3>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Dart-0075BA?style=for-the-badge&logo=dart&logoColor=white" /> 
+  <h3 align="left">📄 Markup & Styling:</h3>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-35BEF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <h3 align="left">🔧 Frameworks & Libraries:</h3>
+  <img src="https://img.shields.io/badge/Angular-b52e31?style=for-the-badge&logo=angular&logoColor=white" /> <img src="https://img.shields.io/badge/React-00d8ff?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-87BD48?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"lds.io/ber-5CC3F0?style=for-the-badge&logo=flutter&logoColor=white
+  <img src="https://img.shields.io/badge/Bootstrap-870AFB?style=for-the-badge&logo=bootstrap&logoColor=white" /><img src="https://img.shields.io/badge/jQuery-0868AC?style=for-the-badge&logo=jquery&logoColor=white"> <h3 align="left">🔨 Tools:</h3>
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-010101?style=for-the-badge&logo=apache-kafka&logoColor=white" /><img src="https://img.shields.io/badge/Postman-EF5B25?style=for&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-26235B?style=for-the-bapachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sonar-280040?style=for&logo=sonar&logoColor=white "/>
 
- <h3 align="left">🔧 Frameworks/Libraries:</h3>
- 
-<img src="https://img.shields.io/badge/angular-b52e31?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
-<img src="https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=white" alt="react" />
-<img src="https://img.shields.io/badge/spring%20boot-87BD48?style=for-the-badge&logo=spring boot&logoColor=white" alt="spring boot" /> 
-<img src="https://img.shields.io/badge/flutter-5CC3F0?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter" />
-<img src="https://img.shields.io/badge/bootstrap-870AFB?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-<img src="https://img.shields.io/badge/jquery-0868AC?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
-<h3 align="left">🔨 Tools:</h3>
-
-<img src="https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-<img src="https://img.shields.io/badge/kafka-010101?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka" />
-<img src="https://img.shields.io/badge/postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
-<img src="https://img.shields.io/badge/apachemaven-26235B?style=for-the-badge&logo=apachemaven&logoColor=white" alt="apachemaven" />
-<img src="https://img.shields.io/badge/sonar-280040?style=for-the-badge&logo=sonar&logoColor=white" alt="sonar" /> 
-
-<h3 align="left">💾 Databases:</h3>
-<img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-<img src="https://img.shields.io/badge/postgresql-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
-<h3 align="left">☁️ Cloud:</h3>
-<img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-<img src="https://img.shields.io/badge/kubernetes-306ADF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
-</div>
-
+  <h3 align="left">💾 Databases:</h3>
+  <img src="https://img.shields.io/badge/MySQLyle=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <h3 align="left">☁️ Cloud & Containerization:</h3>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
 ###
 
 <h2 align="left">📂 Github Data</h2>
